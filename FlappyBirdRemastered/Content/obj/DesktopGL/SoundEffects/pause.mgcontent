@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/alaguna/Projects/FlappyBirdRemastered/FlappyBirdRemastered/Content/SoundEffects/pause.mp3</SourceFile>
+  <SourceTime>2020-10-26T20:31:05.8551432-06:00</SourceTime>
+  <DestFile>/home/alaguna/Projects/FlappyBirdRemastered/FlappyBirdRemastered/Content/bin/DesktopGL/SoundEffects/pause.xnb</DestFile>
+  <DestTime>2020-10-27T15:49:36.7192505-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-10-13T17:46:23.6022703-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-10-13T17:46:23.6022703-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
